@@ -35,5 +35,8 @@ token.js
 #do not commit database data
 /db
 
+#vs code
+.vscode
+
 #do not commit editor config files
 .idea
