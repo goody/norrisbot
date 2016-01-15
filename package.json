@@ -20,7 +20,7 @@
     "norrisbot": "bin/bot.js"
   },
   "scripts": {
-    "start": "./bin/bot.js",
+    "start": "bin/bot.js",
     "test": "node_modules/.bin/xo data/jokesFetcher.js bin/bot.js lib/norrisbot.js"
   },
   "author": {
